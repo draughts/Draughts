@@ -2,7 +2,7 @@ Draughts
 ========
 
 Automatic draughts player
-
+[draughts checkers](https://draughts.pw/)
 
 Wykorzystanie języka Python z biblioteką OpenCV oraz lego NXT w celu zbudowania automatu do gry w warcaby.
 
